@@ -1,2 +1,4 @@
 *.zip
+*.out
+*.cmp
 DS_Store
